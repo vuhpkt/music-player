@@ -189,6 +189,10 @@ header h2 {
 .song .title {
     font-size: 18px;
     color: var(--text-color);
+    /* text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 240px; */
 }
 
 .song .author {
